@@ -8,3 +8,4 @@ This is a list or curated, hand-picked chrome extensions powered by ChatGPT and/
 2. [WritingMate.ai - beautiful ChatGPT assistant that works right in the chrome tab](writingmate.ai)
 3. [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban)
 4. [ChatGPT4Google - embed chatgpt in the Search Engine results](chatgpt4google.com)
+5. [ChatGPT Search, Bookmark & Prompt Manager DevTools](https://chromewebstore.google.com/detail/aapchhfjoohmohpdcadghjacklcdfdml?utm_source=github)
